@@ -4,7 +4,7 @@ FundsNest is an innovative online platform designed to bridge the gap between st
 
 ## Live Demo
 
-URL To Visit The Web Application - [Task Manger Frontend ](https://fundnest12.netlify.app/)
+URL To Visit The Web Application - [FundNest ](https://fundnest12.netlify.app/)
 
 Key Features (Frontend)
 Dynamic Investor Dashboard: A rich, interactive interface for investors to browse, filter, and manage startup investment opportunities.
